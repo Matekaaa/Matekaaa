@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Máté
+- 👀 I’m interested in frontend dev/social media dev
+- 🌱 I’m currently learning React/next.js
